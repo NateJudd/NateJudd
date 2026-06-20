@@ -1,12 +1,17 @@
 - 👋 Hi, I’m @NateJudd
-- 👀 I’m interested in Bayesian Statistics, particularly models with infinite-dimensional priors
-- 🌱 I’m currently learning about computable filters and their application to Bayesian models and hidden Markov models
-- 💞️ I’m looking to collaborate on prior constructions
-- 📫 How to reach me nathan.judd@warwick.ac.uk
+- 👀 I’m interested in Mathematical Statistics. In particular, using probability theory and information theory to say things about statistical models and statistical estimation.
 
-Test change
 
-<!---
-NateJudd/NateJudd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⭐ My Doctoral Thesis constructed two classes of non-diffusive Wright-Fisher processes and (1) derived exact, computable posterior, posterior predictive and smoothing distribution formulae, and, (2), derived and implemented exact sampling schemes for both classes.
+- 📔 You can find part of this work on ArXiv - https://arxiv.org/abs/2604.11363.
+- 💻 You can find the code to build a python module that exactly simulates from the subordinated Wright-Fisher process in my "exact-simulation..." repo.
+
+
+- 🌱 I have recently worked on lower bounding methods, with an eye for heavy-tailed distributions.
+- 💻 You can find a flavour of this work in my "tail-bounds" repo.
+- ✨ I am working on applying lower bounding method to identify the optimal sample complexity of important statistical estimation problems.
+
+
+- 💞️ Open to discuss and collaborate
+- 📫 How to reach me nathan.judd@oist.jp
+
